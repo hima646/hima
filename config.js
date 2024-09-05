@@ -12,9 +12,9 @@ global.owner = [
   ['201050945951', ' 3MK 💸', true],
 ];
 
-global.xaxa = 'kana'
-global.suittag = ['22247072475', '22247072475'];
-global.prems = ['22247072475', '22247072475'];
+global.xaxa = 'Hima'
+global.suittag = ['201050945951', '201050945951'];
+global.prems = ['201050945951', '201050945951'];
 
 global.packname = 'Nezuko🧸 ';
 global.author = '★Nezuko🌺★';
