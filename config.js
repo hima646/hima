@@ -16,12 +16,12 @@ global.xaxa = 'Hima'
 global.suittag = ['201050945951', '201050945951'];
 global.prems = ['201050945951', '201050945951'];
 
-global.packname = 'Nezuko🧸 ';
-global.author = '★Nezuko🌺★';
-global.wm = '★Nezuko BOT★';
-global.titulowm = ' Nezuko ';
-global.titulowm2 = ` Nezuko `
-global.igfg = ' Nezuko ';
+global.packname = 'Hima🧸 ';
+global.author = '★Hima🌺★';
+global.wm = '★Hima BOT★';
+global.titulowm = ' Hima ';
+global.titulowm2 = ` hima `
+global.igfg = ' Hima ';
 global.wait = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
